@@ -4,5 +4,5 @@ These 2 GIS maps are together the final project for the course NGN180 Geographic
 
 For detailed project descriptions, check ``NGN180_FinalMap.pdf`` in the project files.  
 
-The first map visualizes course participants' hometowns combined with a point cluster visualization across the entirety of Sweden.  
+The first map visualizes course participants' hometowns combined with a point cluster visualization across the entirety of Sweden. The map can be found at [``Map1/map1.pdf``](https://github.com/ruireng/gis-maps/blob/main/Map1/map1.pdf).  
 
