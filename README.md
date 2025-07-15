@@ -10,4 +10,4 @@ The second map visualizes the course participants' age, educational background, 
 ## About this project:
 Made during the course NGN180 Geographical Information Systems - Introduction.  
 This project was made during the summer of 2025.  
-The software used for making the maps is QGIS. Both maps used base maps from QuickMapServices. For map 1, "Esri World Imagery" was used and for map 2, "ESRI" was used.
+The software used for making the maps is QGIS. Both maps used base maps from QuickMapServices. For map 1, "Esri World Imagery" was used and for map 2, "ESRI" was used. The maps are produced in Swedish.
